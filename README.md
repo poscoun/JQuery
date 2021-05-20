@@ -40,3 +40,6 @@ jQuery는 빠르고 기능이 풍부한 자바스크립트이며, 다양한 브�
 - 두번째로는, 직접 내려 받아 사용하는 방법 입니다.
 (직접 내려 받아 사용하는 경우에는 경로를 정확히 설정해주어야 합니다.)
 - <script src="jquery-3.5.1.min.js"></script>
+
+
+## jQuery Selectors https://www.w3schools.com/jquery/jquery_ref_selectors.asp
