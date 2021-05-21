@@ -42,4 +42,4 @@ jQuery는 빠르고 기능이 풍부한 자바스크립트이며, 다양한 브�
 - <script src="jquery-3.5.1.min.js"></script>
 
 
-## jQuery Selectors https://www.w3schools.com/jquery/jquery_ref_selectors.asp
+## jQuery Selectors https://www.w3schools.com/jquery/jquery_ref_selectors.asp 
